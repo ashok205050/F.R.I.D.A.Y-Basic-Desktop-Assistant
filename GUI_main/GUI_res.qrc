@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../GUIimage/ai-loader-opt.gif</file>
+        <file>../GUIimage/Back.png</file>
+        <file>../GUIimage/BackGround.jpg</file>
+        <file>../GUIimage/Enter1.jpg</file>
+        <file>../GUIimage/Exit.png</file>
+        <file>../GUIimage/exit2.jpg</file>
+        <file>../GUIimage/GUIimages.qrc</file>
+        <file>../GUIimage/Input.png</file>
+        <file>../GUIimage/Login.png</file>
+        <file>../GUIimage/logo.jpg</file>
+        <file>../GUIimage/Mic.png</file>
+        <file>../GUIimage/Retry.png</file>
+        <file>../GUIimage/Start.png</file>
+        <file>../GUIimage/uinput.png</file>
+    </qresource>
+</RCC>

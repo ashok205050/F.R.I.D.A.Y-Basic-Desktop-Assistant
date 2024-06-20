@@ -1,0 +1,9 @@
+{
+    "files": [
+        "gui_main.py",
+        "form.ui",
+        "GUI_res.qrc",
+        "loginWindow.ui",
+        "outputGUI.ui"
+    ]
+}
